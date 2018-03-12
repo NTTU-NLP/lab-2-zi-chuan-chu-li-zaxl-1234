@@ -1,23 +1,34 @@
 # Lab.2
 
-¸Õ¼g¤@µ{¦¡¨ÓÅª¨úÀÉ®×¤§¤º®e¡A¨ÃÀË¬d¨C¤@¦æ¤¤ªº¨C­Ó¦r¡A¬O§_¬° 
+è©¦å¯«ä¸€ç¨‹å¼ä¾†è®€å–æª”æ¡ˆä¹‹å…§å®¹ï¼Œä¸¦æª¢æŸ¥æ¯ä¸€è¡Œä¸­çš„æ¯å€‹å­—ï¼Œæ˜¯å¦ç‚º 
 
 * .
 * ?
 * !
 
-µ²§À¡C
-­Y¬O¡A«h¦b©ó©R¥O´£¥Ü¦r¤¸¦L¥X¸Ó¦r¤¸«á±µµÛ¦L¤@­Ó´«¦æ¦r¤¸ '\n'¡C
+çµå°¾ã€‚
+è‹¥æ˜¯ï¼Œå‰‡åœ¨æ–¼å‘½ä»¤æç¤ºå­—å…ƒå°å‡ºè©²å­—å…ƒå¾Œæ¥è‘—å°ä¸€å€‹æ›è¡Œå­—å…ƒ '\n'ã€‚
 
 ## Example
 
 ```
-After Gordon and Cleveland Cavaliers guard Kyrie Irving each scored 20 points in the championship round, besting the score of 17 from Charlotte¡¦s Kemba Walker, Gordon and Irving had to go to a bonus round to determine the winner. It was the first time the championship had required a shootout since 2012, when Kevin Love defeated Kevin Durant.
+After Gordon and Cleveland Cavaliers guard Kyrie Irving each scored 20 points in the championship round, besting the score of 17 from Charlotteâ€™s Kemba Walker, Gordon and Irving had to go to a bonus round to determine the winner. It was the first time the championship had required a shootout since 2012, when Kevin Love defeated Kevin Durant.
 ```
 
-¿é¥X
+è¼¸å‡º
 
 ```
-After Gordon and Cleveland Cavaliers guard Kyrie Irving each scored 20 points in the championship round, besting the score of 17 from Charlotte¡¦s Kemba Walker, Gordon and Irving had to go to a bonus round to determine the winner. 
+After Gordon and Cleveland Cavaliers guard Kyrie Irving each scored 20 points in the championship round, besting the score of 17 from Charlotteâ€™s Kemba Walker, Gordon and Irving had to go to a bonus round to determine the winner. 
 It was the first time the championship had required a shootout since 2012, when Kevin Love defeated Kevin Durant.
 ```
+
+
+# è¨ˆåˆ†è¡¨
+
+|è©•åˆ†é …ç›®|5|4|3|2|1|
+|-|-|-|-|-|-|
+|ç¨‹å¼çµæœæ­£ç¢ºæ€§||||||
+|ç¨‹å¼ç¢¼å®Œæ•´æ€§||||||
+|æº–æ™‚ç¹³äº¤||||||
+
+# åˆ†æ•¸
